@@ -11,4 +11,8 @@
     <PackageReference Include="FirebirdSql.Data.FirebirdClient" Version="10.3.4" />
   </ItemGroup>
 
+  <ItemGroup>
+	<None Include="fb5\**\*.*" CopyToOutputDirectory="Always" />
+  </ItemGroup>
+
 </Project>
