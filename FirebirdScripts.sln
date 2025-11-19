@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36616.10 d17.14
+VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebirdScripts", "FirebirdScripts\FirebirdScripts.csproj", "{5CA3790C-B728-4E52-81E7-09F3534DE334}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbMetaTool", "DbMetaTool\DbMetaTool.csproj", "{5CA3790C-B728-4E52-81E7-09F3534DE334}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
